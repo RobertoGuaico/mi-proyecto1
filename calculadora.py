@@ -4,3 +4,4 @@ num2 = int(input("ingrese el segundo numero: "))
 
 
 print(f"la suma de los 2 valores es {num1 + num2}")
+print(f"la resta de los 2 valores es {num1 - num2}")
